@@ -7,7 +7,9 @@
 npm install
 ```
 
-### Запуск приложения
+## Запуск приложения
 ```
 npm run start
 ```
+
+### Чтобы задать желаемое количество этажей/шахт, измените значения переменных `floorsCount` и `shaftsCount` в компоненте [<ins>Elevator</ins>](./src/components/Elevator/Elevator.vue).
