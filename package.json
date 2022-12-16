@@ -1,6 +1,8 @@
 {
   "name": "elevator",
   "version": "0.1.0",
+  "author": "Dmitry Sviridenko",
+  "homepage": "https://mrsandw1ch.github.io/elevator",
   "private": true,
   "scripts": {
     "start": "vue-cli-service serve",
